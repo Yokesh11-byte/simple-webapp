@@ -2,9 +2,9 @@
 
 #### This guide provides detailed instructions for deploying a 🌐 web application along with Prometheus 📊 monitoring on Google Kubernetes Engine (GKE) 🛠️. Deployment is automated using Terraform 🏗️ and GitHub Actions 🤖, ensuring a streamlined CI/CD process.
 
-### 📂 Project Directory Overview
+#### 📂 Project Directory Overview
 
-### The project structure is organized as follows:
+#### The project structure is organized as follows:
 
 ```
 ├── .github/
