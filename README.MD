@@ -1,6 +1,6 @@
-#  🌐 Web App 🚀 Deployment with Prometheus 📊 Monitoring on GKE 🛠️
+## 🌐 Web App 🚀 Deployment with Prometheus 📊 Monitoring on GKE 🛠️
 
-### This guide provides detailed instructions for deploying a 🌐 web application along with Prometheus 📊 monitoring on Google Kubernetes Engine (GKE) 🛠️. Deployment is automated using Terraform 🏗️ and GitHub Actions 🤖, ensuring a streamlined CI/CD process.
+#### This guide provides detailed instructions for deploying a 🌐 web application along with Prometheus 📊 monitoring on Google Kubernetes Engine (GKE) 🛠️. Deployment is automated using Terraform 🏗️ and GitHub Actions 🤖, ensuring a streamlined CI/CD process.
 
 ### 📂 Project Directory Overview
 
